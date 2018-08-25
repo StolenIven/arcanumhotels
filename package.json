@@ -1,0 +1,13 @@
+{
+  "name": "Arcanum Hotels Announcer",
+  "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "request": "4.0.0"
+  }
+}
